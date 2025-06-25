@@ -1,0 +1,38 @@
+[2025-06-24 18:16:02] [INFO] Logger initialized - Application started
+[2025-06-24 18:16:02] [INFO] Application starting up...
+[2025-06-24 18:16:02] [ERROR] Failed to initialize database
+[2025-06-24 18:16:02] [INFO] Database closed
+[2025-06-24 18:16:02] [INFO] Logger closing - Application shutdown
+[2025-06-24 18:47:18] [INFO] Logger initialized - Application started
+[2025-06-24 18:47:18] [INFO] Application starting up...
+[2025-06-24 18:47:18] [INFO] Loaded 1 users
+[2025-06-24 18:47:18] [INFO] Loaded 3 customers
+[2025-06-24 18:47:18] [INFO] Loaded 5 products
+[2025-06-24 18:47:18] [INFO] Loaded 1 orders
+[2025-06-24 18:47:18] [INFO] Console UI initialized successfully
+[2025-06-24 18:47:18] [INFO] All systems initialized successfully
+[2025-06-25 04:19:14] [INFO] Logger initialized - Application started
+[2025-06-25 04:19:14] [INFO] Application starting up...
+[2025-06-25 04:19:14] [INFO] Loaded 1 users
+[2025-06-25 04:19:14] [INFO] Loaded 3 customers
+[2025-06-25 04:19:14] [INFO] Loaded 5 products
+[2025-06-25 04:19:14] [INFO] Loaded 1 orders
+[2025-06-25 04:19:14] [INFO] Console UI initialized successfully
+[2025-06-25 04:19:14] [INFO] All systems initialized successfully
+[2025-06-25 04:19:31] [INFO] Logger initialized - Application started
+[2025-06-25 04:19:31] [INFO] Application starting up...
+[2025-06-25 04:19:31] [INFO] Loaded 1 users
+[2025-06-25 04:19:31] [INFO] Loaded 3 customers
+[2025-06-25 04:19:31] [INFO] Loaded 5 products
+[2025-06-25 04:19:31] [INFO] Loaded 1 orders
+[2025-06-25 04:19:31] [INFO] Console UI initialized successfully
+[2025-06-25 04:19:31] [INFO] All systems initialized successfully
+[2025-06-25 04:19:52] [WARNING] Failed login attempt for: ahmedmo112
+[2025-06-25 04:19:52] [WARNING] Failed login attempt for username: ahmedmo112
+[2025-06-25 04:19:59] [INFO] Saved 1 orders
+[2025-06-25 04:19:59] [INFO] Saved 5 products
+[2025-06-25 04:19:59] [INFO] Saved 3 customers
+[2025-06-25 04:19:59] [INFO] Saved 1 users
+[2025-06-25 04:19:59] [INFO] Console UI shutdown completed
+[2025-06-25 04:19:59] [INFO] Application shutting down normally
+[2025-06-25 04:19:59] [INFO] Logger closing - Application shutdown

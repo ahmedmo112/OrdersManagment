@@ -1,0 +1,3 @@
+F:/FCAI/GP/TESTREPOS/OrdersManagment/build/CMakeFiles/OrderManagement.dir
+F:/FCAI/GP/TESTREPOS/OrdersManagment/build/CMakeFiles/edit_cache.dir
+F:/FCAI/GP/TESTREPOS/OrdersManagment/build/CMakeFiles/rebuild_cache.dir

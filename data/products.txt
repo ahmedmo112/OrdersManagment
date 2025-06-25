@@ -1,0 +1,5 @@
+1|Laptop Computer|High-performance laptop for business use|Electronics|999.99|50|10|1
+2|Wireless Mouse|Ergonomic wireless mouse|Electronics|29.99|100|20|1
+3|Office Chair|Comfortable ergonomic office chair|Furniture|199.99|25|5|1
+4|Notebook|Professional spiral notebook|Office Supplies|4.99|200|50|1
+5|Printer Paper|High-quality A4 printer paper|Office Supplies|12.99|150|30|1 
