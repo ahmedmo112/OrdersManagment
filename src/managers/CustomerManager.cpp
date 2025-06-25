@@ -30,7 +30,7 @@ void CustomerManager::loadCustomers()
             customers.push_back(customer);
 
             // Update next ID
-            if (customer.getCustomerId() >= nextCustomerId)
+            if (customer.getCustomerId() > nextCustomerId)
             {
                 nextCustomerId = customer.getCustomerId() + 1;
             }
@@ -51,7 +51,7 @@ void CustomerManager::saveCustomers()
     Database &db = Database::getInstance();
     if (db.saveCustomers(data))
     {
-        LOG_INFO("Saved " + std::to_string(customers.size()) + " customers");
+        LOG_INFO("Saved " + std::to_string(customers.size()) + " customerss");
     }
     else
     {
@@ -172,7 +172,7 @@ bool CustomerManager::activateCustomer(int customerId)
     {
         customer->setIsActive(true);
         saveCustomers();
-        LOG_INFO("Activated customer: " + customer->getName());
+        LOG_INFO("Activated customers: " + customer->getName());
         return true;
     }
     return false;
